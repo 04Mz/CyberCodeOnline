@@ -126,7 +126,7 @@
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "em processamento",
+ 	 	 	 	 	 	"trans": "processando",
  	 	 	 	 	 	"eng": "processing"
  	 	 	 	 	}
  	 	 	 	},
@@ -168,7 +168,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo porque a ambição de um homem. \\ N Faça amor exploração, não guerra.",
+ 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo porque a ambição de um homem. \\n Faça amor, não guerra.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -5283,7 +5283,7 @@
  	 	 	 	"likerName",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "${likerName} enviou ${amount} respeitos para o seu pulo",
+ 	 	 	"trans": "${likerName} enviou ${amount} para o seu pulo",
  	 	 	"eng": "${likerName} has send you ${amount} respects for your skip"
  	 	}
  	},
@@ -5350,7 +5350,7 @@
  	 	 	 	"eng": "View Profile"
  	 	 	},
  	 	 	"openPlayerGang": {
- 	 	 	 	"trans": "View gangue",
+ 	 	 	 	"trans": "Ver gangue",
  	 	 	 	"eng": "View Gang"
  	 	 	},
  	 	 	"sendGift": {
@@ -5390,7 +5390,7 @@
  	 	 	 	"eng": "No inappropriate language."
  	 	 	},
  	 	 	"footer": {
- 	 	 	 	"trans": "Você será silenciado se você violar qualquer uma das regras",
+ 	 	 	 	"trans": "Você será SILENCIADO se você violar qualquer uma das regras",
  	 	 	 	"eng": "You will be MUTED if you breach any of the rules"
  	 	 	},
  	 	 	"footer2": {
@@ -5399,7 +5399,7 @@
  	 	 	},
  	 	 	"agreeToggle": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Eu entendo e nunca vou spam ou quebrar qualquer uma das regras de bate-papo",
+ 	 	 	 	 	"trans": "Eu entendo e nunca vou spamar ou quebrar qualquer uma das regras de bate-papo",
  	 	 	 	 	"eng": "I understand and I will never spam or break any of the chat rules"
  	 	 	 	}
  	 	 	},
@@ -5409,7 +5409,7 @@
  	 	 	},
  	 	 	"confirmButton": {
  	 	 	 	"agreed": {
- 	 	 	 	 	"trans": "Eu não vou spam",
+ 	 	 	 	 	"trans": "Eu não vou spamar",
  	 	 	 	 	"eng": "I won't spam"
  	 	 	 	},
  	 	 	 	"notAgree": {
@@ -5460,7 +5460,7 @@
  	 	 	 	"eng": "As this game is made by only one person, it's very difficult translate all languages correctly, but I am working on adding more translations :)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Você pode alterar o idioma a qualquer momento na página Configurações",
+ 	 	 	 	"trans": "Você pode alterar o idioma a qualquer momento na página de Configurações",
  	 	 	 	"eng": "You can change language anytime at the settings page"
  	 	 	},
  	 	 	"dontShowAgain": {
@@ -5493,7 +5493,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"search"
  	 	 	 	],
- 	 	 	 	"trans": "Nenhum jogador com chamado \"${search}\" encontrado",
+ 	 	 	 	"trans": "Nenhum jogador chamado \"${search}\" encontrado",
  	 	 	 	"eng": "No player with named \"${search}\" found"
  	 	 	}
  	 	},
@@ -5549,7 +5549,7 @@
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "Sua boa revisão vai me ajudar muito e trazer mais jogadores em nossa comunidade!",
+ 	 	 	 	 	"trans": "Sua boa revisão vai me ajudar muito e trazer mais jogadores para nossa comunidade!",
  	 	 	 	 	"eng": "Your good review is going to help me much and bring more players into our community!"
  	 	 	 	}
  	 	 	},
@@ -5558,7 +5558,7 @@
  	 	 	 	"eng": "Don't ask me again"
  	 	 	},
  	 	 	"reviewLater": {
- 	 	 	 	"trans": "Revisar mais tarde",
+ 	 	 	 	"trans": "Revisar depois",
  	 	 	 	"eng": "review later"
  	 	 	}
  	 	},
